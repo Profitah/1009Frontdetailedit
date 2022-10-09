@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#!/Users/yuna/Desktop/살려주세요/10-82/myvenv/bin/python3.11
-=======
-#!/Users/yuna/Desktop/멋사과제_최종/10-8/myvenv/bin/python3.11
->>>>>>> remotes/origin/main
+#!/Users/yuna/Desktop/이거여줘/wtfstatic/myvenv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
